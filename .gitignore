@@ -1,0 +1,9 @@
+# Ignore all mp3 files
+*.mp3
+
+# Ignore music folder (if you have one)
+songs/
+music/
+audio/
+assets/logo.svg
+assets/spotify.png
