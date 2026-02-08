@@ -25,6 +25,11 @@ Built using **HTML, CSS, and JavaScript**, this project focuses on frontend desi
 - **JavaScript** – Music controls and interactivity  
 
 ---
+## ⚠️ Disclaimer
+
+This project is created for **educational purposes only**.  
+No copyrighted songs or Spotify-owned branding/audio is included in this repository.
+
 
 
 
