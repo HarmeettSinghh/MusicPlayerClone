@@ -1,9 +1,24 @@
-# Ignore all mp3 files
-*.mp3
 
-# Ignore music folder (if you have one)
+
+*.mp3
+*.wav
+*.ogg
+
+# Ignore audio folder
+audio/
 songs/
 music/
-audio/
+
+# ❌ Ignore logo / album covers (optional)
+logo.*
+covers/
 assets/logo.svg
+
+# ❌ Secrets 
+.env
+
+# ❌ System junk
+.DS_Store
+Thumbs.db
+
 
