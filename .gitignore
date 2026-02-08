@@ -14,6 +14,7 @@ logo.*
 covers/
 assets/logo.svg
 
+<<<<<<< HEAD
 # ❌ Secrets 
 .env
 
@@ -22,3 +23,5 @@ assets/logo.svg
 Thumbs.db
 
 
+=======
+>>>>>>> d54476752df37c82fa9b002e5a086e22433fa2ce
