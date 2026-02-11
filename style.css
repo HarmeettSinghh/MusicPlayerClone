@@ -73,6 +73,7 @@ body{
 }
 .right{
     margin: 16px 0;
+    position: relative;
 }
 .header{
     display: flex;
@@ -155,4 +156,32 @@ body{
 .loginbtn:hover{
     font-weight: bolder;
     font-size: 17px;
+}
+.spotifyPlaylists{
+    position: relative;
+}
+.playbar{
+    position: absolute;
+    bottom: 0;
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+    padding: 12px;
+}
+.songbuttons{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+.songList ul{
+    padding: 0 42px;
+}
+.songList ul li{
+    list-style-type: decimal;
+    display: flex;
+    gap: 34px;
+    cursor: pointer;
+    padding: 12px 0;
+}
+.playnow{
+    display: flex;
 }
